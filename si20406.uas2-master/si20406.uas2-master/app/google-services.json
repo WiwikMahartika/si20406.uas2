@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795749000614",
+    "firebase_url": "https://uas-rizki-5b5d7-default-rtdb.firebaseio.com",
+    "project_id": "uas-rizki-5b5d7",
+    "storage_bucket": "uas-rizki-5b5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795749000614:android:febbd91208980353f09b67",
+        "android_client_info": {
+          "package_name": "com.example.uas_rizki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795749000614-ar7ipn0en3dotii8dh9hj5imgl7cd35h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLUIqNeWvXcaeUpRwRNORvmn9pwKbVClc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795749000614-ar7ipn0en3dotii8dh9hj5imgl7cd35h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
